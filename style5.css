@@ -1,0 +1,45 @@
+.wraper {
+	width: 700px;
+	margin: 80px auto;
+}
+p {
+	text-indent: 50px;
+	font-family: Arial, sans-serif;
+	line-height: 30px;
+}
+.yellow {
+	background-color: #FFFD38;
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+}
+.italicbold {
+	font-weight: bold;
+	font-style: italic;
+}
+.up {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Lora', serif;
+}
+.redit {
+	color: red;
+	font-style: italic;
+}
+.big {
+	font-size: 150%;
+}
+.italicund {
+	font-style: italic;
+	text-decoration: underline;
+}
+.line {
+	text-decoration: line-through;
+}
+.red {
+	color: red;
+}
+.italic {
+	font-style: italic;
+}

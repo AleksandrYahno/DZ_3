@@ -1,0 +1,52 @@
+.wraper {
+	width: 700px;
+	margin: 30px auto;
+}
+p {
+	font-family: Arial, sans-serif;
+	line-height: 25px;
+}
+.bigbd {
+	font-size: 200%;
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.red {
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+.yelow {
+	background-color: #FFFD38;
+}
+.bluebd {
+	color: #0D0C7E;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.bold2 {
+	font-weight: bold;
+	font-size: 140%;
+	font-weight: lighter;
+}
+
+.one {
+	font-style: italic;
+	background-color: #FFFD38;
+}
+.bigbl {
+	font-size: 140%;
+	color: #0D0C7E;
+	text-decoration: underline;
+}
